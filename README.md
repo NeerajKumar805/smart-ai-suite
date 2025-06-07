@@ -3,9 +3,9 @@
 
 Smart AI Suite is a modular AI platform that integrates powerful language, vision, and data tools into a single, user-friendly application. It features a Spring Boot and Spring AI backend powered by Google Gemini, paired with a fast and responsive React + Vite frontend, optimized for both web and mobile.
 
-![Chat Interface](./snapshots/chat-interface.png)  
-![Document Analysis](./snapshots/document-analysis.png)  
-![Dashboard](./snapshots/dashboard.png)
+![ss2](https://github.com/user-attachments/assets/60a52309-1e88-41ad-8674-991c24839fd2)
+![ss1](https://github.com/user-attachments/assets/c42496b9-5d10-45eb-b82b-ec0df52f2a43)
+
 
 ## Features
 
@@ -25,18 +25,16 @@ Smart AI Suite is a modular AI platform that integrates powerful language, visio
 - **Backend**  
   - Spring Boot  
   - Spring AI  
-  - Google Gemini API  
-  - MySQL (or your preferred relational database)  
+  - Google Gemini API   
 - **Frontend**  
   - React  
   - Vite  
-  - Tailwind CSS (or plain CSS)
+  - Tailwind CSS and custom CSS)
 
 ## Prerequisites
 
 - Java 17 or higher  
 - Maven  
-- Node.js 16 or higher and npm/yarn  
 - A Google Cloud project with the Gemini API enabled  
 - A valid `GOOGLE_GEMINI_API_KEY`
 
@@ -87,11 +85,13 @@ Smart AI Suite is a modular AI platform that integrates powerful language, visio
 
 ## Screenshots
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <img src="./snapshots/chat-interface.png" alt="Chat Interface" width="200" />
-  <img src="./snapshots/document-analysis.png" alt="Document Analysis" width="200" />
-  <img src="./snapshots/dashboard.png" alt="Dashboard" width="200" />
-</div>
+![ss8](https://github.com/user-attachments/assets/8f8c3d04-dc82-45ba-bec8-6c83e7b25f13)
+![ss7](https://github.com/user-attachments/assets/55da1e2c-8fde-4f96-8a17-2d9faa0b1829)
+![ss6](https://github.com/user-attachments/assets/963b14e9-603e-49e8-ba9c-73ffe12ea244)
+![ss5](https://github.com/user-attachments/assets/bdbf08e9-6cef-483c-9578-4fcd0ea601fb)
+![ss4](https://github.com/user-attachments/assets/8388db85-1324-4f76-95cb-bcfa743e85d1)
+![ss3](https://github.com/user-attachments/assets/751dea7c-0034-4c2f-be10-4464fbd7981f)
+
 
 ## Contributing
 
