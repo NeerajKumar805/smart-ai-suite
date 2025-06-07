@@ -3,8 +3,8 @@
 
 Smart AI Suite is a modular AI platform that integrates powerful language, vision, and data tools into a single, user-friendly application. It features a Spring Boot and Spring AI backend powered by Google Gemini, paired with a fast and responsive React + Vite frontend, optimized for both web and mobile.
 
-![ss2](https://github.com/user-attachments/assets/60a52309-1e88-41ad-8674-991c24839fd2)
 ![ss1](https://github.com/user-attachments/assets/c42496b9-5d10-45eb-b82b-ec0df52f2a43)
+![ss2](https://github.com/user-attachments/assets/60a52309-1e88-41ad-8674-991c24839fd2)
 
 
 ## Features
@@ -85,12 +85,12 @@ Smart AI Suite is a modular AI platform that integrates powerful language, visio
 
 ## Screenshots
 
-![ss8](https://github.com/user-attachments/assets/8f8c3d04-dc82-45ba-bec8-6c83e7b25f13)
-![ss7](https://github.com/user-attachments/assets/55da1e2c-8fde-4f96-8a17-2d9faa0b1829)
-![ss6](https://github.com/user-attachments/assets/963b14e9-603e-49e8-ba9c-73ffe12ea244)
-![ss5](https://github.com/user-attachments/assets/bdbf08e9-6cef-483c-9578-4fcd0ea601fb)
-![ss4](https://github.com/user-attachments/assets/8388db85-1324-4f76-95cb-bcfa743e85d1)
-![ss3](https://github.com/user-attachments/assets/751dea7c-0034-4c2f-be10-4464fbd7981f)
+![ss3](https://github.com/user-attachments/assets/9b955ac8-20fb-45f6-8a5a-0b7d3aa1e655)
+![ss4](https://github.com/user-attachments/assets/97a57edb-01a1-42df-a338-ade7204a3110)
+![ss5](https://github.com/user-attachments/assets/5d611097-f45c-4710-96f1-46aa09fb373d)
+![ss6](https://github.com/user-attachments/assets/807dedb1-c0e8-4006-acac-e50cab1c883c)
+![ss7](https://github.com/user-attachments/assets/3ece39fd-6c74-4e69-9fe6-3b9dfb6f5d34)
+![ss8](https://github.com/user-attachments/assets/c561f262-f012-41f3-a655-d9983aa3297c)
 
 
 ## Contributing
@@ -102,10 +102,6 @@ Contributions and feedback are welcome! To contribute:
 3. Commit your changes: `git commit -m 'Add YourFeature'`.  
 4. Push to your branch: `git push origin feature/YourFeature`.  
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
